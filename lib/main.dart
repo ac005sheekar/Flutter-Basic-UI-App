@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() => runApp(MaterialApp(
   home: Scaffold(
     appBar: AppBar(
-      title: Text("Sheekar - World Time App"),
+      title: Text("Sheekar Banerjee - World Time App"),
     ),
   ),
 ));
