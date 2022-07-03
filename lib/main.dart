@@ -5,6 +5,7 @@ void main() => runApp(MaterialApp(
     appBar: AppBar(
       title: Text("Sheekar Banerjee - World Time App "),
       centerTitle: true,
+      backgroundColor: Colors.red[400],
     ),
     body: Center(
       child: Text('Hello Time Trackers!'),
