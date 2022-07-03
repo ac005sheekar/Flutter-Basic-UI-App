@@ -9,6 +9,10 @@ void main() => runApp(MaterialApp(
     body: Center(
       child: Text('Hello Time Trackers!'),
     ),
+    floatingActionButton: FloatingActionButton(
+      onPressed: null,
+      child: Text('click'),
+    ),
 
   ),
 ));
