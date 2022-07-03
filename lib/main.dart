@@ -6,7 +6,9 @@ void main() => runApp(MaterialApp(
       title: Text("Sheekar Banerjee - World Time App "),
       centerTitle: true,
     ),
-    body: Text('Hello Time Trackers!'),
+    body: Center(
+      child: Text('Hello Time Trackers!'),
+    ),
 
   ),
 ));
