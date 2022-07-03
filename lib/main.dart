@@ -12,7 +12,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Sheekar Banerjee - World Time App "),
+        title: Text("Sheekar Banerjee - Space Image App "),
         centerTitle: true,
         backgroundColor: Colors.red[400],
       ),
